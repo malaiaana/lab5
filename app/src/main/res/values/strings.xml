@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="telemedicine">Telemedicine</string>
+    <string name="stroka">Lorem ipsum dolor sit amet, conse\n
+        ctetur adipinscing elit, t. Ut enim ad veni\n
+        am, quis nostrud exercitation ullamco</string>
+    <string name="welcome">Welcome</string>
+    <string name="urgent">URGENT</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="login">Login</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="password">Password</string>
+</resources>
